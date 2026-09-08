@@ -1,6 +1,6 @@
 # Kestrel Labs Trademark Policy
 
-"Kestrel Labs", "Kestrel App Manager", "Kestrel Backup", the kestrel mark, and the kestrellabs.org / kestrellabs.cloud names are trademarks of **Kestrel Labs**.
+"Kestrel Labs", "Kestrel App Manager", "Kestrel Backup", the kestrel mark, and the kestrellabs.org / kestrellabs.cloud names are trademarks of **Jason Miller, doing business as Kestrel Labs**.
 
 Open-source licenses (including the GNU GPL) grant **no** trademark rights.
 

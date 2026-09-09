@@ -20,4 +20,4 @@ Open-source licenses (including the GNU GPL) grant **no** trademark rights.
 
 ## Contact
 
-Questions: **legal@kestrellabs.org** (same inbox as security@ for now).
+Questions: **kestrellabs@protonmail.com**.
